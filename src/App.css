@@ -1,0 +1,48 @@
+body{
+    background-color: lightblue;
+}
+.todolist{
+    background-color: burlywood;
+    height: auto;
+    width: 800px;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px; 
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.buttons{
+    margin-top:20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: bisque;
+}
+.input{
+    padding: 10px;
+    width: 400px;
+    border: none;
+}
+.inputbuttons{
+    padding: 10px;
+    width: auto;
+    background-color:bisque;
+    border: none;
+}
+.listdata{
+    padding: 6px;
+    background-color: rgb(164,203,237);
+    text-align: center;
+    width: 400px;
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.listmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
